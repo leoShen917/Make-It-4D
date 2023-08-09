@@ -1,4 +1,4 @@
-# Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image (ACM MM2023)
+## Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image (ACM MM2023)
 Liao Shen<sup>1</sup>,
 [Xingyi Li](https://scholar.google.com/citations?user=XDKQsvUAAAAJ&hl)<sup>1,2</sup>,
 Huiqiang Sun<sup>1</sup>,
