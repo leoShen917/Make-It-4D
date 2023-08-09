@@ -12,4 +12,4 @@ Huiqiang Sun<sup>1</sup>,
 ![](https://github.com/leoShen917/Make-It-4D/blob/main/demo/teaser1.gif)
 
 ### Flying-in
-<img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin1.gif" width="210"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin2.gif" width="210"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin3.gif" width="210"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin4.gif" width="210">
+<img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin1.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin2.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin3.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin4.gif" width="200">
