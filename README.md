@@ -9,6 +9,9 @@ Huiqiang Sun<sup>1</sup>,
 
 <sup>1</sup>Huazhong University of Science and Technology, <sup>2</sup>S-Lab, Nanyang Technological University
 ### Project | [Paper](https://github.com/leoShen917/Make-It-4D/blob/main/pdf/Make-It-4D-paper.pdf) | arXiv | Video | Supp
+
+<img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/teaser1.gif">
+
 ### Flying-in
 <img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin1.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin2.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin3.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin4.gif" width="200">
 ### Flying-out
