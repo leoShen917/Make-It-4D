@@ -9,4 +9,4 @@ Huiqiang Sun<sup>1</sup>,
 
 <sup>1</sup>Huazhong University of Science and Technology, <sup>2</sup>S-Lab, Nanyang Technological University
 
-<video src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/fly_in1.mp4"></video>
+
