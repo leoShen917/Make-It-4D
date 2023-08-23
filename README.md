@@ -18,3 +18,13 @@ Huiqiang Sun<sup>1</sup>,
 <img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout1.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout2.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout3.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout4.gif" width="200">
 ### More examples
 <img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/teaser2.gif" width="400"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/teaser3.gif" width="400">
+# Citation
+If you find our work useful in your research, please consider to cite our paper:
+```
+@article{shen2023make,
+  title={Make-It-4D: Synthesizing a Consistent Long-Term Dynamic Scene Video from a Single Image},
+  author={Shen, Liao and Li, Xingyi and Sun, Huiqiang and Peng, Juewen and Xian, Ke and Cao, Zhiguo and Lin, Guosheng},
+  journal={arXiv preprint arXiv:2308.10257},
+  year={2023}
+}
+```
