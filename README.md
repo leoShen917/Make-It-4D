@@ -8,7 +8,7 @@ Huiqiang Sun<sup>1</sup>,
 [Guosheng Lin](https://guosheng.github.io/)<sup>2</sup>
 
 <sup>1</sup>Huazhong University of Science and Technology, <sup>2</sup>S-Lab, Nanyang Technological University
-### [Paper](https://github.com/leoShen917/Make-It-4D/blob/main/pdf/Make-It-4D.pdf) | [arXiv](https://arxiv.org/abs/2308.10257) | Video | Supp
+### [Paper](https://github.com/leoShen917/Make-It-4D/blob/main/pdf/Make-It-4D.pdf) | [arXiv](https://arxiv.org/abs/2308.10257) | Video 
 
 <img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/teaser1.gif">
 
