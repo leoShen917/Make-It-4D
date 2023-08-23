@@ -13,7 +13,7 @@ Huiqiang Sun<sup>1</sup>,
 <img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/teaser1.gif">
 
 ### Flying-in
-<img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin1.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin2.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin3.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin4.gif" width="200">
+<img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin1.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin2.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin3.gif"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyin4.gif" width="200">
 ### Flying-out
 <img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout1.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout2.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout3.gif" width="200"><img src="https://github.com/leoShen917/Make-It-4D/blob/main/demo/flyout4.gif" width="200">
 ### More examples
