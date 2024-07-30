@@ -1,0 +1,23 @@
+# generator:
+#   div_flow: 1.5
+#   use_mask_as_motion_input: True
+#   use_hint_as_motion_input: True
+#   norm_G: sync:spectral_batch
+#   motion_norm_G: sync:spectral_instance
+#   motion_losses: !!python/list ['10.0_EndPointError']
+#   motionH: 768
+#   motionW: 768
+#   W: 768
+generator:
+  div_flow: 0.5
+  use_mask_as_motion_input: True
+  use_hint_as_motion_input: True
+  norm_G: sync:spectral_batch
+  motion_norm_G: sync:spectral_instance
+  motion_losses: !!python/list ['10.0_EndPointError']
+  motionH: 768
+  motionW: 768
+  W: 768
+  # motionH: 1280
+  # motionW: 768
+  # W: 1280
